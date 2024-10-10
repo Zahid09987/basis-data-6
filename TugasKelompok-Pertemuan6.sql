@@ -1,3 +1,5 @@
+CREATE DATABASE SIP_Oracle; -- Membuat basis data
+
 USE SIP_Oracle; -- Menggunakan Basis data
 
 -- Tabel untuk data siswa
